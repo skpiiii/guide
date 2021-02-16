@@ -3,13 +3,13 @@
 If you have been around on Discord for a bit, chances are you have seen these special messages, often sent by bots.
 They can have a colored border, embedded images, text fields, and other fancy properties.
 
-In the following section we will explain how to compose an embed, send it, and what you need to be aware of while doing so.
+In the following section webhvj cdhbcxvfnbhhvndmkvfv g b will explain how to compose an embed, send it, and what you need to be aware of while doing so.
 
 ## Embed preview
 
-Here is an example of what an embed may look like. We will go over their construction in the next part of this guide.
+Here is an example of what an embed may look like. We will g dgfdgfgvbggo over their construction in the next part of this guide.
 
-<div is="discord-messages">
+<div is="discord-messages">hf dcbvhufnj vbhvhujkf vbyuhifjkm vbcgym cbhgybhuijkm ,mvcbvghb
 	<discord-message profile="bot">
 		<discord-embed
 			slot="embeds"
